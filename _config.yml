@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: Blogging Guide
+name: Blogging
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -31,34 +31,29 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Add a new page
-  url: add-a-new-page/
+- text: Blog Mission Brief
+  url: mission-brief/
   internal: true
-  children:
-  - text: Make a child page
-    url: make-a-child-page/
-    internal: true
-- text: Add images
-  url: add-images/
+- text: How to get your blog post published
+  url: publishing-process/
   internal: true
-- text: Update the config file
-  url: update-the-config-file/
+- text: Writing a great post
+  url: content-guidelines/
   internal: true
-  children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
-- text: GitHub setup
-  url: github-setup/
+- text: Metadata, explained
+  url: metadata/
   internal: true
-- text: Post your guide
-  url: post-your-guide/
+- text: Authorship
+  url: authorship/
+  internal: true
+- text: Tagging
+  url: tagging/
   internal: true
 
 repos:
-- name: Guides Template
+- name: blogging-guide
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/18F/blogging-guide
 
 back_link:
   url: "https://pages.18f.gov/guides/"

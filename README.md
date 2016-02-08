@@ -1,83 +1,14 @@
-## 18F Guides Template
+## 18F Blogging Guide
 
-This is a skeleton repo containing the
-[CFPB/DOCter](https://github.com/CFPB/DOCter)-based
-[Jekyll](http://jekyllrb.com/) template for
-[18F Guides](http://18f.github.io/guides/).
+This guide helps 18F employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. You can read the 18F blog at [18f.gsa.gov/blog/](https://18f.gsa.gov/blog/).
 
-### Getting started
+### For 18F team members
+If you have any questions, ask them in #blog or by email to 18f-outreach@gsa.gov.  
 
-#### Installing Ruby
+Everyone at 18F is encouraged to contribute to our blog. We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at 18F for a set amount of time to draft a post. If you’ve got an idea that you think will help advance 18F’s mission, we’d love to hear it.
 
-You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). To check
-whether it's already installed on a UNIX-like system, open up a terminal
-window (e.g. Terminal on OS X) and type `ruby -v` at the command prompt. For
-example, you should see something similar to the following:
-
-```shell
-$ ruby -v
-ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin14]
-```
-
-If the version number is less than 2.1.5, or instead you see something like:
-
-```shell
-$ ruby -v
--bash: ruby: command not found
-```
-
-Then Ruby is not installed, and you should choose one of the installation
-methods below. [The "Installing Ruby" page of the official
-Ruby language web
-site](https://www.ruby-lang.org/en/documentation/installation/) explains how
-to do this in a number of ways across many different systems.
-
-##### Quickest Ruby install/upgrade for OS X
-
-On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in
-`/usr/local/bin`, which may require you to update your `$PATH` environment
-variable:
-
-```shell
-$ brew update
-$ brew install ruby
-```
-
-##### Optional: using a version manager
-
-Whether or not Ruby is already installed, we strongly recommend using a Ruby
-version manager such as [rbenv](https://github.com/sstephenson/rbenv) or
-[rvm](https://rvm.io/) to help ensure that Ruby version upgrades don't mean
-all your [gems](https://rubygems.org/) will need to be rebuilt.
-
-#### Cloning and serving the Guides Template locally
-
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
-of your new repository:
-
-```shell
-$ git clone https://github.com/18F/guides-template.git MY-NEW-GUIDE
-$ cd MY-NEW-GUIDE
-$ ./go serve
-```
-
-The `./go` script will check that your Ruby version is supported, install the
-[Bundler gem](http://bundler.io/) if it is not yet installed, install all the
-gems needed by the template, and launch a running instance on
-`http://localhost:4000/`.
-
-#### Follow the template instructions
-
-The Guides Template (either [running locally](http://localhost:4000) or the
-[published version](https://pages.18f.gov/guides-template/)) will walk you
-through the rest of the steps to edit and publish your guide.
-
-### Staging version (for 18F team members)
-
-In addition to the `18f-pages` branch, you can create an `18f-pages-staging`
-branch and changes to that branch will be published to
-`https://pages-staging.18f.gov/MY-NEW-GUIDE`, which is identical to
-`https://pages.18f.gov/` but provides authenticated access.
+### For the public
+Many of the links in this guide will not work for members of the public since they are to internal documents or private repos. We're making this guide public because 18F defaults to transparency, and we believe this guide may help other agencies and organizations set up an efficient and effective blogging process. As with all projects at 18F, this guide is an iterative and living document. We're constantly looking to improve our process and our documentation and may make updates to this guide as things change. If you have questions about our process or this document you can [file an issue](https://github.com/18F/blogging-guide/issues), email us at [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov), or [send us a message on Twitter](https://twitter.com/18f). 
 
 ### Public domain
 
