@@ -160,7 +160,7 @@ image: /assets/blog/slug/image.jpg/png/gif
 Testing
 -------
 
-Every time we publish a blog post, GitHub runs a suite of tests that
+Every time we publish a blog post, [GitHub runs a suite of tests](https://18f.gsa.gov/2015/12/11/how-we-test-18f-gsa-gov/) that
 check that the front matter for each post is correct. Right now,
 “correct” means each of the required fields described above is filled
 in. In the future, we also hope to have automated tests that check

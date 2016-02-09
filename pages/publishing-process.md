@@ -42,7 +42,7 @@ that [some benefit is had].
 
 ## Who needs to clear the post
 
-- [ ] @18fblog
+- [ ] @18f/blog
 - [ ] Gia - GSA Congressional Affairs (OCIA)
 - [ ] Tania - GSA Office of Communications and Marketing (OCM)
 - [ ] @NoahKunin

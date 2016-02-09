@@ -8,13 +8,11 @@ Keep it user centered
 
 Blog posts should offer something to the reader, whether that’s a new
 tool for them to use, a guide they can use to improve their own work, or
-educational information about a complicated topic or process. You should
-begin your post with what’s new and how your readers can use this new
-thing.
+educational information about a complicated topic or process. You should begin with the thing your readers should take away from your post, and why it matters to them..
 
 Sometimes the process of building something or tackling a particularly
 thorny challenge is what makes a post worth writing, but those posts
-should still be framed around offering techniques to our readers.
+should still be framed around offering techniques to your readers.
 Spending too much time saying a problem was difficult and that we solved
 it isn’t helpful to the reader unless we also offer a solution so they
 can avoid this problem in their own work.
