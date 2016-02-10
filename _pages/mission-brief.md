@@ -1,6 +1,5 @@
 ---
-permalink: /mission-brief/
-title: Blog Mission Brief
+title: Blog mission brief
 ---
 
 The 18F blog is a place where we share what we’ve learned, what we’ve
@@ -27,8 +26,7 @@ In sum, our goals are:
 -   To strengthen our relationship with the public and people who might want to join 18F
 -   To actively promote innovation in government, wherever it’s happening
 
-Execution
----------
+### Execution
 
 Our publications adhere to [18F’s Content Guide](https://pages.18f.gov/content-guide/), actively promoting a
 unified style and a multitude of voices. The Outreach Team
@@ -43,8 +41,7 @@ team [in a working GitHub
 repository.](https://github.com/18f/blog-drafts) We also cover events
 that involve team members.
 
-Risks and concerns
-------------------
+### Risks and concerns
 
 We assess every post to ensure it adheres to our mission, as outlined
 above. Being this open about all aspects of our work is atypical for a
@@ -52,8 +49,7 @@ government agency, and, accordingly, we expect to proactively share our
 reasoning for why we make certain editorial decisions. We acknowledge
 the need to show strategy and data that supports our ambition.
 
-Conclusion
-----------
+### Conclusion
 
 Part of GSA’s mission is to “deliver the best value in… technology
 services to government and the American people.” By showcasing the value

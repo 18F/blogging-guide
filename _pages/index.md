@@ -1,6 +1,6 @@
 ---
-permalink: /
 title: Introduction
+permalink: /
 ---
 This guide helps 18F employees through the blogging process and assists
 them in properly framing their post so that it’s concise, readable, and

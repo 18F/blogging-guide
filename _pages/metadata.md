@@ -1,5 +1,4 @@
 ---
-permalink: /metadata/
 title: Metadata, explained
 ---
 
@@ -26,8 +25,7 @@ There are also a few optional fields:
 Here is what each required field means and some guidelines for filling
 them out:
 
-Title
------
+### Title
 
 The plain-text title of your post, surrounded by quotation marks. This
 will be displayed prominently above the post, will show up in browser
@@ -45,8 +43,7 @@ Scorecard) then it’s good to include it in the title. If it’s less clear
 (for example, Midas) then it’s better to explain what the product does
 and save the name for the first paragraph.
 
-Authors
--------
+### Authors
 
 A list of handles of teammates involved in authoring the post. They must
 all be lowercase, and must match a name that appears in
@@ -59,8 +56,7 @@ their name will automatically link to their bio. See our [authorship
 section]({{
 site.baseurl }}/content-guidelines/) for more information on how to choose authors.
 
-Tags
-----
+### Tags
 
 A list of tags to associate with the post. These will appear, linked,
 next to the post and will take readers to other posts that have this
@@ -70,8 +66,7 @@ guide]({{
 site.baseurl }}/tagging/)
 when choosing tags.
 
-Excerpt
--------
+### Excerpt
 
 A short plain-text snippet of the post to use as the "[nut
 graf](https://en.wikipedia.org/wiki/Nut_graph)" that appears on the
@@ -80,8 +75,7 @@ it as what you would tell a friend if they asked you about your post. A
 good excerpt is usually no more than two sentences long. No Markdown
 allowed.
 
-Description
------------
+### Description
 
 A short, plain-text description of your post, surrounded with quotation
 marks. No Markdown or HTML allowed. This can be the same as the excerpt
@@ -91,8 +85,7 @@ fetch article metadata.
 
 And here are the optional fields:
 
-Image
------
+### Image
 
 The main image of your post. A relative link, with a leading /. This
 will appear in social media platforms when the post is shared. It can be
@@ -102,8 +95,7 @@ picture. It will increase the likelihood of your post being shared on
 social media and can help give readers more information. Authors do not have to fill in the image path. You can simply insert your image into your Google Doc draft and a member of the blog team will fill it in during publishing. Full-width images should be 1600px wide. If omitted, a
 standard image is used.
 
-Date
------
+### Date
 
 Overrides the default date set by Jekyll. When you create a post, you
 give it a filename with a date in it. For example:
@@ -117,9 +109,9 @@ in chronological order instead of by most recent. To have posts listed
 with the most recent appearing first, you can add a timestamp to the
 front matter in the form YYYY-MM-DD HH:MM using 24-hour time.
 
-Example front matter
---------------------
-```
+###Example front matter
+
+```yaml
 ---
 title: "New Federalist platform lets agencies quickly launch websites"
 date: 2015-09-15
@@ -141,7 +133,7 @@ image: /assets/blog/federalist/sbst-screenshot.jpg
 
 Here’s a template you can paste directly into your draft:
 
-```
+```yaml
 ---
 title: ""
 date: YYYY-MM-DD (optional)
@@ -157,8 +149,7 @@ image: /assets/blog/slug/image.jpg/png/gif
 ---
 ```
 
-Testing
--------
+### Testing
 
 Every time we publish a blog post, [GitHub runs a suite of tests](https://18f.gsa.gov/2015/12/11/how-we-test-18f-gsa-gov/) that
 check that the front matter for each post is correct. Right now,
