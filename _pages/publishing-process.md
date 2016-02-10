@@ -1,5 +1,4 @@
 ---
-permalink: /publishing-process/
 title: How to get your blog post published
 ---
 
@@ -20,7 +19,7 @@ We use five milestones to manage blog post issues.
 
 In this section, we'll walk you through each of the milestones.
 
-## Idea: How do I create a new post?
+### Idea: How do I create a new post?
 
 Every blog post begins as an issue with the `idea` milestone. You should feel free to file `idea` issues even if you don't have a draft or don't think you can write the post. Any team member can "pick up" issues with the `idea` tag and begin
 drafting a post. Issues are picked up when someone assigns themselves to the issue.
@@ -28,7 +27,7 @@ drafting a post. Issues are picked up when someone assigns themselves to the iss
 To create an issue in the blog-drafts repo, you can [click here to have a preformatted issue created for you](https://goo.gl/pt0alV), or you can manually create a new issue and copy the code below into the issue description. Either way, you should then read the [metadata page of this guide]({{
 site.baseurl }}/metadata/) and fill out each section.
 
-```
+```markdown
 ## Audience
 
 As a [type of audience], I want [to read or learn something], so
@@ -100,7 +99,7 @@ from other people in OCM or other GSA offices. Tania is looking for messaging co
 in blog posts and to coordinate our efforts with the other technology
 offices across GSA. She is also our press relations contact, so if your blog post generates interest from the press, you should talk to Tania.
 
-## Draft: What steps should I take when drafting my post?
+### Draft: What steps should I take when drafting my post?
 
 1. Once an issue is in writing mode, move it to the `drafts`
 milestone.
@@ -109,7 +108,7 @@ folder](https://drive.google.com/a/gsa.gov/#folders/0B-y3CqI2T1nndGE0c191NGtUTEU
 with the text of your post.
 3. Copy the code below and add it to the top of your draft.
 
-```
+```yaml
 GitHub issue URL:
 ---
 title: ""
@@ -126,11 +125,9 @@ image: /assets/blog/slug/image.jpg/png/gif
 ---
 ```
 
-
-
 Go back to the issue in blog-drafts, edit the issue description, and paste in a link to your draft.
 
-## To edit: How do I get my post edited?
+### To edit: How do I get my post edited?
 
 Once the post is drafted and ready to be edited by the blog team:
 
@@ -139,7 +136,7 @@ Once the post is drafted and ready to be edited by the blog team:
 resolve any issues.
 1. After you've resolved any edits with the blog team, send the draft to any outside agency or other 18F team who needs to review the post.
 
-## Ready to approve: How do I get my post approved?
+### Ready to approve: How do I get my post approved?
 
 When a post has been cleared by the blog team and any outside
 reviewers, a blog team member will take responsibility for getting the post approved and published. They will:
@@ -164,7 +161,7 @@ After the above-mentioned folks have made comments and suggestions,
 and after you’ve resolved them, a blog team member will move the issue to the `approved`
 milestone. The blog team will work with you to schedule when the post will be published and will add the post to the 18F Editorial Calendar.
 
-## Approved: How do I get my blog post published?
+### Approved: How do I get my blog post published?
 
 When the post is ready to be published, a member of the blog team will:
 

@@ -1,5 +1,4 @@
 ---
-permalink: /authorship/
 title: Authorship
 ---
 
@@ -10,8 +9,7 @@ the number of people who write a post makes it feel more personal and
 less written by committee, allows for a stronger voice in the writing,
 and helps speed up the editing and approval process.
 
-Multiple authors
-----------------
+### Multiple authors
 
 Some posts may have significant amounts of text written by more than two people, in which case every contributor should be listed as an author.
 
@@ -34,8 +32,7 @@ Things to consider when choosing authors:
 -   Posts you have authored will automatically be listed on your 18F biography.
 -   Other people (for example, the press) may attribute anything in the post to you, and may reach out for additional interviews.
 
-Guest authors
--------------
+### Guest authors
 
 The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening
 around the government, getting a different perspective on 18F projects,
@@ -47,8 +44,7 @@ Guide](https://pages.18f.gov/content-guide/). Posts from guest authors
 will have to go through the communications approval process at their
 agency as well as at 18F and GSA.
 
-No authors
-----------
+### No authors
 
 On occasion, it can be useful to have posts written by 18F as an
 organization rather than as an individual. We may use this for posts

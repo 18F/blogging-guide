@@ -1,10 +1,8 @@
 ---
-permalink: /content-guidelines/
 title: Writing a great post
 ---
 
-Keep it user centered
----------------------
+### Keep it user centered
 
 Blog posts should offer something to the reader, whether that’s a new
 tool for them to use, a guide they can use to improve their own work, or
@@ -17,8 +15,7 @@ Spending too much time saying a problem was difficult and that we solved
 it isn’t helpful to the reader unless we also offer a solution so they
 can avoid this problem in their own work.
 
-If it feels like a marathon, make it a series
----------------------------------------------
+### If it feels like a marathon, make it a series
 
 Our mission is broad, but our strategy is small steps. This applies to
 how we build products, how we ship culture, how we educate, and how we
@@ -36,8 +33,7 @@ along to learn a new skill or gain a deep understanding of how a product
 was built. Breaking up a long post allows readers to complete and digest
 each section without getting overwhelmed.
 
-Write a user story to determine your audience
----------------------------------------------
+### Write a user story to determine your audience
 
 It’s crucial to decide on your target audience before you start drafting
 a blog post. Being as specific as you can will help you answer a number

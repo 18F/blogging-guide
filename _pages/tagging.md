@@ -1,5 +1,4 @@
 ---
-permalink: /tagging/
 title: Tagging
 ---
 
@@ -30,7 +29,7 @@ in mind:
 -   **Time sensitivity**: Will this tag continue to be useful in the future (short- and longer-term), or is it useful only within a limited timeframe?
 -   **Overlap**: Is your proposed tag different enough from existing tags to warrant being created? Before creating a new tag, review the full tag list to see if there’s another similar tag you can use instead.
 
-## Formatting
+### Formatting
 
 When typing tags or creating new ones, please follow these guidelines.
 
@@ -42,7 +41,7 @@ we generate the site.
 - Numbers are allowed
 - List tags like this in the frontmatter of posts:
 
-```
+```yaml
 tags:
 - 18f
 - how we work
@@ -98,6 +97,6 @@ With that in mind, please, use [the list of current tags](https://18f.gsa.gov/ta
 the [formatting rules above](#formatting) as your guide for tagging
 posts, _not_ the contents of your `_site/tags` folder.
 
-## Which tags should I use?
+### Which tags should I use?
 
 Refer to [this list of current tags](https://18f.gsa.gov/tags/) to see which ones best fit your post.
