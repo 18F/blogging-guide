@@ -92,13 +92,7 @@ organizations.” Gia reads our blog posts with the eye of a Member of
 Congress or congressional staffer and makes sure our posts align with
 wider GSA communications and messages.
 
-Tania Mejia is the Deputy Press Secretary in Office of Communications and Marketing (OCM). She is responsible for
-GSA’s digital portfolio including 18F and the Office of Citizen Services
-and Innovative Technologies (OCSIT). Tania is our primary contact in
-OCM. She reviews posts and then will flag posts that require approval
-from other people in OCM or other GSA offices. Tania is looking for messaging concerns
-in blog posts and to coordinate our efforts with the other technology
-offices across GSA. She is also our press relations contact, so if your blog post generates interest from the press, you should talk to Tania.
+Tania Mejia is the Deputy Press Secretary for the General Services Administration. She is responsible for GSA’s digital portfolio including 18F and the Office of Citizen Services and Innovative Technologies (OCSIT). Tania is our primary contact in OCM. She reviews posts to ensure that there is constant messaging across GSA and flags posts that require approval from others GSA offices.
 
 ## Draft: What steps should I take when drafting my post?
 
