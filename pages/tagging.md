@@ -10,15 +10,15 @@ tags useful, we aim to include in the tag list only necessary tags and
 to apply only a handful of tags (3-5) to any single post.
 
 If you’re writing the first post about a long-term delivery project,
-please create a new project specific tag. For example, `betafec`,
-`uscis`, or `calc`. Beyond organizing posts about your project,
+please create a new project specific tag. For example, `fec.gov`,
+`uscis`, or `analytics.usa.gov`. Beyond organizing posts about your project,
 these tags will also be used to help pull relevant blog posts into other
 parts of 18f.gsa.gov. If you have questions about what to call your
 project, or if the project name changes, drop into #blog to discuss it
 with the team.
 
 Consulting projects should be tagged with the type of service. For
-example, `rfp ghostwriting`, `discovery`, or `protosketching`.
+example, `rfp ghostwriting`, `micro-purchase platforms`, or `protosketching`. We also tag consulting projects as `acquisition services` or `transformation services` so that users can see the work we do under those two business lines. 
 
 Please check the list of existing tags before adding tags to your post.
 If you’d like to create a new tag for your post, it should be one that
