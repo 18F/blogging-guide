@@ -25,8 +25,7 @@ In this section, we'll walk you through each of the milestones.
 Every blog post begins as an issue with the `idea` milestone. You should feel free to file `idea` issues even if you don't have a draft or don't think you can write the post. Any team member can "pick up" issues with the `idea` tag and begin
 drafting a post. Issues are picked up when someone assigns themselves to the issue.
 
-To create an issue in the blog-drafts repo, you can [click here to have a preformatted issue created for you](https://goo.gl/pt0alV), or you can manually create a new issue and copy the code below into the issue description. Either way, you should then read the [metadata page of this guide]({{
-site.baseurl }}/metadata/) and fill out each section.
+To create an issue in the blog-drafts repo, you can [click here to have a preformatted issue created for you](https://goo.gl/pt0alV), or you can manually create a new issue and copy the code below into the issue description. 
 
 ```
 ## Audience
@@ -101,7 +100,7 @@ milestone.
 2. Create a Google Doc in [the Blog
 folder](https://drive.google.com/a/gsa.gov/#folders/0B-y3CqI2T1nndGE0c191NGtUTEU)
 with the text of your post.
-3. Copy the code below and add it to the top of your draft.
+3. Copy the code below and add it to the top of your draft. (Find more information about these fields in the [metadata section](https://pages.18f.gov/blogging-guide/metadata/).)
 
 ```
 GitHub issue URL:
