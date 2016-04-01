@@ -164,6 +164,6 @@ When the post is ready to be published, a member of the blog team will:
   1. Convert the post to markdown.
   1. Open a pull request to post it to the staging branch of 18f.gsa.gov for final review. Any final edits will be
 discussed in #blog.
-  1. Open a pull request to post it to the production branch.
+  1. After all edits are discussed and the author has approved the final post, ping @gregboone or @elainekamlley to rebuild the site and publish the post. 
   1. Once the post goes live, post the live URL in a
 comment and close the issue.
