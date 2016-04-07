@@ -44,7 +44,6 @@ that [some benefit is had].
 - [ ] @18f/blog
 - [ ] Gia - GSA Congressional Affairs (OCIA)
 - [ ] Tania - GSA Office of Communications and Marketing (OCM)
-- [ ] @NoahKunin
 ```
 
 The people in the "who needs to clear this post" section above are required for every blog post, but you should also include anybody inside or outside of our team who should have eyes
@@ -71,13 +70,7 @@ To approve your blog post, the 18F comms team is looking for 18F style,
 general connection to 18F and GSA’s mission, and a complete structure
 with a beginning, middle, and end. The team is also on the lookout for
 additional reviewers that might be required for certain posts (for
-example, legal, contracting officers, senior management).
-
-Noah Kunin is 18F’s Director of Infrastructure. He is looking for
-compliance with security protocols, that all of your links are public,
-and that your post isn’t running afoul of any policies or regulations.
-He is also looking to make sure any 18F sites you're linking to have
-received an Authority to Operate (ATO).
+example, legal, contracting officers, senior management, compliance experts).
 
 #### Inside GSA
 
