@@ -132,11 +132,11 @@ reviewers, a blog team member will take responsibility for getting the post appr
 
 - Move it to the `ready to approve`
 milestone
-- Write a comment on the issue tagging @quepol, @aaronsnow, and @noahkunin. Noah will actively review the post, while the tags for Hillary and Aaron are just for visibility.
+- Write a comment on the issue tagging @quepol, and @aaronsnow.
 - Tag Tania and Gia in the Google Doc draft for approval.
 - Add the labels `for review -ocia` and `for review- ocm`.
 
-Tania, Gia, and Noah need to actively approve the post before it can be published. As each person approves the post, a member of the blog team with remove the appropriate `for review` label and will check the boxes in the issue description.
+Tania and Gia need to actively approve the post before it can be published. As each person approves the post, a member of the blog team with remove the appropriate `for review` label and will check the boxes in the issue description. Our Infrastructure Director, Noah Kunin, must approve any communications regarding cloud.gov, an Authority to Operate (ATO), or security in general.
 
 If your post is announcing an 18F project that collaborates with an
 outside agency, or if you're providing an update or more information on
