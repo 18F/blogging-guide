@@ -84,7 +84,7 @@ organizations.” Gia reads our blog posts with the eye of a Member of
 Congress or congressional staffer and makes sure our posts align with
 wider GSA communications and messages.
 
-Cat Langel is a public affiars specialist in the Chicago (Region 5) Office of Communications and Marketing (OCM). She is responsible for reviewing posts for GSA’s blog and 18F. Cat is our primary contact in OCM. She reviews posts and then will flag posts that require approval from other people in OCM or other GSA offices. Cat is looking for messaging concerns in blog posts and to coordinate our efforts with the other technology offices across GSA.
+Cat Langel is a public affiars officer in the Chicago (Region 5) Office of Communications and Marketing (OCM). She is responsible for reviewing posts for GSA’s blog and 18F. Cat is our primary contact in OCM. She reviews posts and then will flag posts that require approval from other people in OCM or other GSA offices. Cat is looking for messaging concerns in blog posts and to coordinate our efforts with the other technology offices across GSA.
 
 ## Draft: What steps should I take when drafting my post?
 
