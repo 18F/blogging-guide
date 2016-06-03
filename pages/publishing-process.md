@@ -43,7 +43,7 @@ that [some benefit is had].
 
 - [ ] @18f/blog
 - [ ] Gia - GSA Congressional Affairs (OCIA)
-- [ ] Tania - GSA Office of Communications and Marketing (OCM)
+- [ ] Cat - GSA Office of Communications and Marketing (OCM)
 ```
 
 The people in the "who needs to clear this post" section above are required for every blog post, but you should also include anybody inside or outside of our team who should have eyes
@@ -84,7 +84,7 @@ organizations.” Gia reads our blog posts with the eye of a Member of
 Congress or congressional staffer and makes sure our posts align with
 wider GSA communications and messages.
 
-Tania Mejia is the Deputy Press Secretary for the General Services Administration. She is responsible for GSA’s digital portfolio including 18F and the Office of Citizen Services and Innovative Technologies (OCSIT). Tania is our primary contact in OCM. She reviews posts to ensure that there is constant messaging across GSA and flags posts that require approval from others GSA offices.
+Cat Langel is a public affiars specialist in the Chicago (Region 5) Office of Communications and Marketing (OCM). She is responsible for reviewing posts for GSA’s blog and 18F. Cat is our primary contact in OCM. She reviews posts and then will flag posts that require approval from other people in OCM or other GSA offices. Cat is looking for messaging concerns in blog posts and to coordinate our efforts with the other technology offices across GSA.
 
 ## Draft: What steps should I take when drafting my post?
 
@@ -130,13 +130,11 @@ resolve any issues.
 When a post has been cleared by the blog team and any outside
 reviewers, a blog team member will take responsibility for getting the post approved and published. They will:
 
-- Move it to the `ready to approve`
-milestone
-- Write a comment on the issue tagging @quepol, and @aaronsnow.
-- Tag Tania and Gia in the Google Doc draft for approval.
+- Move it to the `ready to approve` milestone
+- Tag Cat and Gia in the Google Doc draft for approval.
 - Add the labels `for review -ocia` and `for review- ocm`.
 
-Tania and Gia need to actively approve the post before it can be published. As each person approves the post, a member of the blog team with remove the appropriate `for review` label and will check the boxes in the issue description. Our Infrastructure Director, Noah Kunin, must approve any communications regarding cloud.gov, an Authority to Operate (ATO), or security in general.
+Cat and Gia need to actively approve the post before it can be published. As each person approves the post, a member of the blog team with remove the appropriate `for review` label and will check the boxes in the issue description. Our Infrastructure Director, Noah Kunin, must approve any communications regarding cloud.gov, an Authority to Operate (ATO), or security in general.
 
 If your post is announcing an 18F project that collaborates with an
 outside agency, or if you're providing an update or more information on
