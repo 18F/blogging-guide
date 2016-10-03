@@ -34,7 +34,7 @@ that [some benefit is had].
 
 ## Goal of blog post
 
-## Description
+## Outline
 
 ## Imagery ideas
 
