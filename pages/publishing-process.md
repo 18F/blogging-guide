@@ -53,12 +53,11 @@ on your post. This may include
 - 18F project lead
 - 18F guild
 
-**Blog posts without all of the above information will be marked with
-the “incomplete” label until they are fully filled in. We’re happy to
-talk through the idea but will not review a draft of a post with the
-“incomplete” label.**
+**You should feel free to file issues for ideas that are in the early stages and may need some discussion before you can answer these questions, but in order for a post to move out of the idea milestone and into the process it must meet the following acceptance criteria:**
 
-If you’re unsure of what to put in any section, hit us up on Slack in #blog.
+>A blog post must have a blog-drafts issue that describes the audience with a user story, identifies a single goal for the post, and includes a draft outline with a minimum of five items. 
+
+If you have any questions, talk to us on Slack in #blog.
 
 ### Who are these people that need to approve my blog post?
 
