@@ -50,9 +50,9 @@ Authors
 
 A list of handles of teammates involved in authoring the post. They must
 all be lowercase, and must match a name that appears in
-[_data/authors.yml](https://github.com/18F/18f.gsa.gov/blob/staging/_data/authors.yml).
+[_data/authors.yml](https://github.com/18F/18f.gsa.gov/blob/dev/_data/authors.yml).
 If your author doesn’t exist, [add it to the
-file](https://github.com/18F/18f.gsa.gov/edit/staging/_data/authors.yml).
+file](https://github.com/18F/18f.gsa.gov/edit/dev/_data/authors.yml).
 Names listed here will automatically be added to the post’s byline. In
 addition, if the author has a bio on 18f.gsa.gov, posts tagged with
 their name will automatically link to their bio. See our [authorship
