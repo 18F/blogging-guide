@@ -16,7 +16,6 @@ Here are the required fields:
 -   Authors
 -   Tags
 -   Excerpt
--   Description
 
 There are also a few optional fields:
 
@@ -80,13 +79,7 @@ it as what you would tell a friend if they asked you about your post. A
 good excerpt is usually no more than two sentences long. No Markdown
 allowed.
 
-Description
------------
-
-A short, plain-text description of your post, surrounded with quotation
-marks. No Markdown or HTML allowed. This can be the same as the excerpt
-or it can be a sentence or two that you feel represents your post well.
-It may appear next to your post on social media and other places that
+The excerpt may also appear next to your post on social media and other places that
 fetch article metadata.
 
 And here are the optional fields:
