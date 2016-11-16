@@ -112,7 +112,6 @@ tags:
 -
 -
 excerpt: ""
-description: ""
 image: /assets/blog/slug/image.jpg/png/gif
 ---
 ```
