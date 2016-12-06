@@ -125,9 +125,6 @@ tags:
 excerpt: "18F’s new Federalist platform is a suite of tools designed to
 make it faster for government agencies to build websites that are
 secure, responsive, and accessible."
-description: "18F’s new Federalist platform is a suite of tools designed
-to make it faster for government agencies to build websites that are
-secure, responsive, and accessible."
 image: /assets/blog/federalist/sbst-screenshot.jpg
 ---
 ```
@@ -145,7 +142,6 @@ tags:
 -
 -
 excerpt: ""
-description: ""
 image: /assets/blog/slug/image.jpg/png/gif
 ---
 ```
