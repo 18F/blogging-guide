@@ -41,7 +41,7 @@ that [some benefit is had].
 ## Who needs to clear the post
 
 - [ ] @18f/blog
-- [ ] Gia Rivera - GSA Congressional Affairs (OCIA)
+- [ ] GSA Congressional Affairs (OCIA)
 - [ ] Brett Prather - GSA Office of Communications and Marketing (OCM)
 ```
 
@@ -71,13 +71,13 @@ example, legal, contracting officers, senior management, compliance experts).
 
 #### Inside GSA
 
-Gianelle (Gia) Rivera is the Technology and Digital Services Policy Advisor at
+Gianelle (Gia) Rivera and Matthew Cornelius are our contacts in the 
 GSA’s Office of Congressional and Intergovernmental Affairs (OCIA). OCIA
 “serves as advisor to the Administrator and GSA leadership and
 supervises and maintains agency liaison with all members of Congress and
 congressional committees. The office also serves as liaison with state
 and local Government officials and their official national
-organizations.” Gia reads our blog posts with the eye of a Member of
+organizations.” They reads our blog posts with the eye of a Member of
 Congress or congressional staffer and makes sure our posts align with
 wider GSA communications and messages.
 
@@ -132,10 +132,10 @@ Once the post is drafted and ready to be edited by the blog team:
 When a post has been cleared by the blog team, the editor will work with you to determine if they are any outside stakeholders or other 18F teams that need to review the post. Once the post has cleared those people, a blog team member will take responsibility for getting the post approved by GSA and published. They will:
 
 - Add the post to the editorial calendar
-- Send the post to Brett and Gia for approval in a Friday morning email
+- Send the post to Brett and OCIA for approval in a Friday morning email
 - Add the labels “for review -ocia” and “for review -ocm”
 
-Brett and Gia need to actively approve the post before it can be published. They may loop in other stakeholders to review a post, depending on the content. As each person approves the post, a member of the blog team with remove the appropriate “for review” label and will check the boxes in the issue description. Our Infrastructure Director, Noah Kunin, must approve any communications regarding cloud.gov, an Authority to Operate (ATO), or security in general.
+Brett and OCIA need to actively approve the post before it can be published. They may loop in other stakeholders to review a post, depending on the content. As each person approves the post, a member of the blog team with remove the appropriate “for review” label and will check the boxes in the issue description. Our Infrastructure Director, Noah Kunin, must approve any communications regarding cloud.gov, an Authority to Operate (ATO), or security in general.
 
 If your post is announcing an 18F project that collaborates with an
 outside agency, or if you're providing an update or more information on
