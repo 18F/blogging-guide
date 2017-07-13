@@ -40,6 +40,9 @@ navigation:
 - text: Writing a great post
   url: content-guidelines/
   internal: true
+- text: Outline templates
+  url: outline-templates/
+  internal: true
 - text: Metadata, explained
   url: metadata/
   internal: true
