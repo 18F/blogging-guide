@@ -49,14 +49,18 @@ Authors
 
 A list of handles of teammates involved in authoring the post. They must
 all be lowercase, and must match a name that appears in
-[_data/authors.yml](https://github.com/18F/18f.gsa.gov/blob/dev/_data/authors.yml).
-If your author doesn’t exist, [add it to the
-file](https://github.com/18F/18f.gsa.gov/edit/dev/_data/authors.yml).
-Names listed here will automatically be added to the post’s byline. In
-addition, if the author has a bio on 18f.gsa.gov, posts tagged with
-their name will automatically link to their bio. See our [authorship
-section]({{
-site.baseurl }}/content-guidelines/) for more information on how to choose authors.
+[this authors folder](https://github.com/18F/18f.gsa.gov/tree/master/_authors).
+If you don't see your name in that folder, create a new markdown file with the information below in the front matter.
+
+```
+---
+name: firstname-lastname
+first_name: Firstname
+last_name: Lastname
+full_name: Firstname Lastname
+published: true
+---
+```
 
 Tags
 ----
