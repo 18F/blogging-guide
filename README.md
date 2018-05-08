@@ -1,3 +1,5 @@
+**DEPRECIATED. Information in this guide has been moved to the [18F Handbook](https://handbook.18f.gov/blogging/) and to the [README of the blog-drafts repo (private)](https://github.com/18F/blog-drafts/blob/master/README.md).**
+
 ## 18F Blogging Guide
 
 This guide helps 18F employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. You can read the 18F blog at [18f.gsa.gov/blog/](https://18f.gsa.gov/blog/).
